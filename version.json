@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9-test",
-  "apkUrl": "https://github.com/dima32639-maker/dubiel-updates/releases/download/v0.9-test/app-debug.apk",
-  "sha256": "5b42e0dfac564457d351386528b642f06a92856ac2b0c28f1c8c63ba320c1330",
+  "versionCode": 10,
+  "versionName": "0.10",
+  "apkUrl": "https://github.com/dima32639-maker/dubiel-updates/releases/download/v0.10/app-debug.apk",
+  "sha256": "aaf59fb63a5f7047b760fc7e1cd134e2040e46824325397a74a250b1cdbedd67",
   "message": "Aktualizacja aplikacji DUBIEL",
   "required": false
 }
